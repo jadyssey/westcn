@@ -22,21 +22,26 @@ def filterData(list):
         match = pattern.findall(noNumber)
         # 网址不包含 -
         str = '-'
-        if com == "com" and amount == 4 and len(match) == 0 and str not in noNumber:
+        if amount == 4 and len(match) == 0 and str not in noNumber and (com == "com" or com == "me"):
             # print(com, amount, noNumber, match)
             listData.append(noNumber)
-
     return listData
 
 # ====程序入口====================================================================
 
 if __name__ == '__main__':
     # 从网站上下载
-    # filePath = downWestCn(URL, All_Data_Path,CHROME_DRIVER,File_full_XPath)
+    filePath = downWestCn(URL, All_Data_Path,CHROME_DRIVER,File_full_XPath)
     # 读取文件数据
-    listExcel = readExcel("D:\RPA\exp_2020_09_23_21d704.csv")
+    # listExcel = readExcel("D:\RPA\exp_2020_09_21_2fcde4.csv")
+    listExcel = readExcel(filePath)
 
     # 筛选数据
     listData = filterData(listExcel)
-    print(listData)
+
+
+
+
+
+
 
