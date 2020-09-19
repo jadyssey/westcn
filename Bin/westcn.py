@@ -16,13 +16,16 @@ def filterData(list):
     listData = []
     for i in range(1, len(list)):
         com = list[i][2]
+        # 筛选4位数网址
         amount = list[i][1]
         noNumber = list[i][0]
         match = pattern.findall(noNumber)
-
-        if com == "com" and amount == 4 and len(match) == 0:
+        # 网址不包含 -
+        str = '-'
+        if com == "com" and amount == 4 and len(match) == 0 and str not in noNumber:
             # print(com, amount, noNumber, match)
-            listData[i] = com
+            listData.append(noNumber)
+
     return listData
 
 # ====程序入口====================================================================
@@ -35,3 +38,5 @@ if __name__ == '__main__':
 
     # 筛选数据
     listData = filterData(listExcel)
+    print(listData)
+
