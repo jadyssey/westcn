@@ -13,9 +13,8 @@ def readExcel(Excel_Path):
     sht = wb.sheets[0]
     # 读取所有的值
     listExcel = sht.range('A1').expand().value
-    print("=============从Excel读取到的数据量为：=============")
-    print(len(listExcel))
-    # print(listExcel[2][3])
+    # print("=============从Excel读取到的数据量为：=============")
+    # print(len(listExcel))
     wb.save()
     wb.close()
     app.quit()
