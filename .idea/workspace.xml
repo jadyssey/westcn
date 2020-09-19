@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hhD2w1QVMZ4oT6m837JO3A7EmO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.westcn">
     <configuration name="DownFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -72,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DownFile" />
         <item itemvalue="Python.westcn" />
+        <item itemvalue="Python.DownFile" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +93,7 @@
       <updated>1600454227159</updated>
       <workItem from="1600454228975" duration="301000" />
       <workItem from="1600454549010" duration="311000" />
-      <workItem from="1600454863615" duration="4256000" />
+      <workItem from="1600454863615" duration="6548000" />
     </task>
     <servers />
   </component>
@@ -97,6 +101,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2193" y="111" key="#Notifications" timestamp="1600460495228">
+      <screen x="1920" y="0" width="1362" height="900" />
+    </state>
+    <state x="2193" y="111" key="#Notifications/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600460495228" />
     <state x="2055" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600455162329">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
@@ -105,37 +113,37 @@
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
     <state x="2048" y="175" key="FileChooserDialogImpl/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600454784782" />
-    <state width="1319" height="236" key="GridCell.Tab.0.bottom" timestamp="1600458531859">
+    <state width="1319" height="236" key="GridCell.Tab.0.bottom" timestamp="1600460722731">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.bottom/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600458531859" />
-    <state width="1319" height="236" key="GridCell.Tab.0.center" timestamp="1600458531859">
+    <state width="1319" height="236" key="GridCell.Tab.0.bottom/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600460722731" />
+    <state width="1319" height="236" key="GridCell.Tab.0.center" timestamp="1600460722731">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.center/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600458531859" />
-    <state width="1319" height="236" key="GridCell.Tab.0.left" timestamp="1600458531859">
+    <state width="1319" height="236" key="GridCell.Tab.0.center/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600460722731" />
+    <state width="1319" height="236" key="GridCell.Tab.0.left" timestamp="1600460722731">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.left/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600458531859" />
-    <state width="1319" height="236" key="GridCell.Tab.0.right" timestamp="1600458531859">
+    <state width="1319" height="236" key="GridCell.Tab.0.left/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600460722731" />
+    <state width="1319" height="236" key="GridCell.Tab.0.right" timestamp="1600460722731">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.right/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600458531859" />
-    <state x="2104" y="95" key="SettingsEditor" timestamp="1600454854282">
+    <state width="1319" height="236" key="GridCell.Tab.0.right/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600460722731" />
+    <state x="2104" y="95" key="SettingsEditor" timestamp="1600459352713">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state x="2104" y="95" key="SettingsEditor/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600454854282" />
+    <state x="2104" y="95" key="SettingsEditor/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600459352713" />
     <state x="2249" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600458044914">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
     <state x="2249" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600458044914" />
-    <state x="2264" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1600459066266">
+    <state x="2264" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1600459526316">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state x="2264" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600459066266" />
+    <state x="2264" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600459526316" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/westcn$westcn.coverage" NAME="westcn Coverage Results" MODIFIED="1600457317063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bin" />
+    <SUITE FILE_PATH="coverage/westcn$westcn.coverage" NAME="westcn Coverage Results" MODIFIED="1600460722724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bin" />
     <SUITE FILE_PATH="coverage/westcn$DownFile.coverage" NAME="DownFile Coverage Results" MODIFIED="1600458531859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
   </component>
 </project>
