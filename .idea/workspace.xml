@@ -7,6 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -27,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.westcn">
     <configuration name="Config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -138,7 +152,7 @@
       <updated>1600454227159</updated>
       <workItem from="1600454228975" duration="301000" />
       <workItem from="1600454549010" duration="311000" />
-      <workItem from="1600454863615" duration="16691000" />
+      <workItem from="1600454863615" duration="17265000" />
     </task>
     <servers />
   </component>
@@ -158,26 +172,26 @@
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
     <state x="2048" y="175" key="FileChooserDialogImpl/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600454784782" />
-    <state width="1319" height="236" key="GridCell.Tab.0.bottom" timestamp="1600502708520">
+    <state width="1319" height="236" key="GridCell.Tab.0.bottom" timestamp="1600503282042">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.bottom/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600502708520" />
-    <state width="1319" height="236" key="GridCell.Tab.0.center" timestamp="1600502708520">
+    <state width="1319" height="236" key="GridCell.Tab.0.bottom/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600503282042" />
+    <state width="1319" height="236" key="GridCell.Tab.0.center" timestamp="1600503282041">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.center/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600502708520" />
-    <state width="1319" height="236" key="GridCell.Tab.0.left" timestamp="1600502708520">
+    <state width="1319" height="236" key="GridCell.Tab.0.center/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600503282041" />
+    <state width="1319" height="236" key="GridCell.Tab.0.left" timestamp="1600503282040">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.left/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600502708520" />
-    <state width="1319" height="236" key="GridCell.Tab.0.right" timestamp="1600502708520">
+    <state width="1319" height="236" key="GridCell.Tab.0.left/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600503282040" />
+    <state width="1319" height="236" key="GridCell.Tab.0.right" timestamp="1600503282041">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state width="1319" height="236" key="GridCell.Tab.0.right/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600502708520" />
-    <state x="2104" y="95" key="SettingsEditor" timestamp="1600459352713">
+    <state width="1319" height="236" key="GridCell.Tab.0.right/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600503282041" />
+    <state x="2104" y="95" key="SettingsEditor" timestamp="1600503078913">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
-    <state x="2104" y="95" key="SettingsEditor/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600459352713" />
+    <state x="2104" y="95" key="SettingsEditor/0.0.1470.864/1920.0.1362.900@1920.0.1362.900" timestamp="1600503078913" />
     <state x="2249" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600458044914">
       <screen x="1920" y="0" width="1362" height="900" />
     </state>
